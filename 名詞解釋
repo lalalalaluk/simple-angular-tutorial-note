@@ -1,0 +1,43 @@
+angular vue.js react.js
+
+angular cli
+官網 https://cli.angular.io/
+
+終端機
+cd C:\Users\lalal\Desktop\angular tutorial
+
+ng --version
+
+ng new 名字
+
+小作業
+ng new homework1   <- 有routing
+ng new homework2   <- 沒有routing
+
+angular 結構
+e2e -> 整合測試
+node_modules -> 套件
+src -> 建專案最重要的地方
+   app -> 應用程式
+   assets -> 資產 (圖片，聲音，word excel .........)
+   environments -> 定義 正式機、測試機的環境
+
+小作業2
+更改預設網頁
+變成 
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+小作業3
+裝套件 讓sass檔案 有顏色
+
+小作業4
+去codepen 找一些範例 放在app.component.html
+
+
+ng serve
+http://localhost:4200/
+就可以看到預設首頁
+
+
+
